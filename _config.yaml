@@ -14,12 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Something Awesome Is Coming
-email: youremailaddress
 description: Leave your email and we'll let know once the site goes live!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://yjpl.github.io/soon/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: alternatyves
-github_username: YJPL
+
 
 # Build settings
 markdown: kramdown
