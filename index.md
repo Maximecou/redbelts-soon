@@ -7,7 +7,6 @@ layout: default
 
 ## Something Awesome Is Coming
 
-Leave your email and we'll let know once the site goes live!
-
+Be ready!
 
 ***
